@@ -1,1 +1,1 @@
-# generate-tweet-search-query
+# tweet-search-query-generator
